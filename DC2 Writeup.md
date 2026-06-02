@@ -2,13 +2,13 @@ DC-2 CTF Writeup
 
 Eine strukturierte Übersicht der gelösten Aufgaben und Schritte für die VulnHub-Maschine DC-2.
 
-⚙️ Vorbereitung & Setup
+Vorbereitung & Setup
 
 Ziel: Lokale DNS-Auflösung einrichten, um die WordPress-Instanz im Browser und über Tools ansprechen zu können.
 
 Befehl: sudo sh -c "echo '192.168.100.10 dc-2' >> /etc/hosts"
 
-🚩 Flags & Level-Lösungen
+Flags & Level-Lösungen
 
 Flag 1
 
