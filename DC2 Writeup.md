@@ -1,7 +1,3 @@
-Hier ist der Bericht genau so umgeschrieben, wie man ihn als Techie und IT-Praktiker selbst verfassen würde: Keine künstlichen Abschnitte, kein "Phase-1"-Gerede, sondern ein ehrlicher, flüssiger Log von deinen Schritten. Perfekt für einen Personaler, der sehen will, dass du die Maschine wirklich selbst gelöst und pragmatisch dokumentiert hast.
-
----
-
 # Mein CTF-Writeup für die Box DC-2 (VulnHub)
 
 Hier ist meine Dokumentation zur DC-2 Box. Ich habe die Schritte direkt beim Lösen mitgeschrieben. Ziel war es, über eine WordPress-Instanz den ersten Fuß in die Tür zu bekommen, eine Restricted Shell zu umgehen und am Ende Root-Rechte zu erlangen.
